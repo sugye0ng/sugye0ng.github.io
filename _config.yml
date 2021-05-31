@@ -2,7 +2,7 @@ title: CODING BLOG
 author: GitHub User
 email: g92883223@google.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  경이의 블로그vV
+  MY BLOG
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -24,9 +24,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: -
-    github:  sugye0ng
-    linkedIn: -
+    twitter: samarsault
+    github:  samarsault
+    linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
